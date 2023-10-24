@@ -24,4 +24,4 @@ The Web Crawler Application allows users to enter a URL and access the crawled c
 
 ## **Demo**
 
-- [**Watch the Project Demo Video**]([https://drive.google.com/file/d/1LVUCYLg6XncXPeDPnQVRDXhAbWXk4-9P/view?usp=sharing](https://drive.google.com/file/d/1S_Ws_iNZqTmfuQVfW2KhSTo4xOaFDEjW/view?usp=sharing)https://drive.google.com/file/d/1S_Ws_iNZqTmfuQVfW2KhSTo4xOaFDEjW/view?usp=sharing]).
+- [**Watch the Project Demo Video**](https://drive.google.com/file/d/1LVUCYLg6XncXPeDPnQVRDXhAbWXk4-9P/view?usp=sharing](https://drive.google.com/file/d/1S_Ws_iNZqTmfuQVfW2KhSTo4xOaFDEjW/view?usp=sharing)https://drive.google.com/file/d/1S_Ws_iNZqTmfuQVfW2KhSTo4xOaFDEjW/view?usp=sharing).
