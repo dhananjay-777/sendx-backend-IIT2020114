@@ -22,6 +22,7 @@ The Web Crawler Application allows users to enter a URL and access the crawled c
 -**Concurrent Crawling:** Multiple crawler workers can simultaneously crawl pages, improving overall efficiency. Paying customers enjoy priority access and are assigned additional workers to expedite their requests.
 
 
-## **Demo**
+## **Demo Video**
 
-- [**Watch the Project Demo Video**](https://drive.google.com/file/d/1LVUCYLg6XncXPeDPnQVRDXhAbWXk4-9P/view?usp=sharing](https://drive.google.com/file/d/1S_Ws_iNZqTmfuQVfW2KhSTo4xOaFDEjW/view?usp=sharing)https://drive.google.com/file/d/1S_Ws_iNZqTmfuQVfW2KhSTo4xOaFDEjW/view?usp=sharing).
+- [**Watch the Project Demo Video**](https://drive.google.com/file/d/1S_Ws_iNZqTmfuQVfW2KhSTo4xOaFDEjW/view?usp=sharing
+).
